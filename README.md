@@ -24,16 +24,12 @@ Each sample includes elements like:
 
 ##  Tools
 
-- Python
-- Jupyter Notebook
-- pandas
-- matplotlib
-- seaborn
+Python, Jupyter Notebook, pandas, matplotlib, seaborn.
 
 
 ## Skills
 
--Data Cleaning, Data Analysis, Exploratory Data Analysis (EDA), Visualizations.
+Data Cleaning, Data Analysis, Exploratory Data Analysis (EDA), Visualizations.
 
 
 ## Key Findings
