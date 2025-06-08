@@ -1,13 +1,12 @@
 ---
 # Air Quality Analysis of PM₁₀ in Badagry, Nigeria 
 
-This project analyzes ambient air quality in Badagry, a peri-urban area in Lagos State, Nigeria, by examining PM₁₀ (Particulate Matter with diameter ≤ 10μm) using geochemical data obtained through SEM-EDX analysis. The objective is to identify dominant airborne pollutants and assess the potential health risks in different environmental units — Market, Residential, and Traffic areas.
-
+This project analyzes ambient air quality in Badagry, a peri-urban area in Lagos State, Nigeria, by examining PM₁₀ (Particulate Matter ≤ 10μm) using geochemical data obtained through SEM-EDX (Scanning Electron Microscopy with Energy Dispersive X-ray Spectroscopy) analysis.
 
 ## Objective
 
-- To explore and visualize the geochemical composition of PM₁₀ across different locations.
 - To identify pollution trends and element concentrations using Python and `pandas`.
+- To generate visualizations using `matplotlib` and `seaborn` to highlight pollution patterns.
 - To derive measures for environmental and public health solutions.
 
 
@@ -41,7 +40,7 @@ Data Cleaning, Data Analysis, Exploratory Data Analysis (EDA), Visualizations.
 
 ##  Environmental Implications
 
-The study confirms the presence of harmful airborne particles with geochemical signatures consistent with road dust, vehicular emissions and anthropogenic activities. These have known links to respiratory issues such as silicosis and heavy metal poisoning.
+The study confirms the presence of harmful airborne particles with geochemical signatures consistent with those of road dust, vehicular emissions and anthropogenic activities. These have known links to respiratory issues such as silicosis and heavy metal poisoning.
 
 
 ##  Recommendations
